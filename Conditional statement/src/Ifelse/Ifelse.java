@@ -15,6 +15,7 @@ public class Ifelse {
 		{
 			System.out.println("b is larger");
 		}
+		System.out.println("abcd");
 		}
 
 	
